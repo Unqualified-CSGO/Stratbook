@@ -6,4 +6,4 @@ https://github.com/Unqualified-CSGO/CSGO-Stratbook
 
 # More Info
 
-https://unqualified-csgo.github.io/Stratbook/
+https://unqualified-csgo.com/
