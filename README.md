@@ -4,6 +4,10 @@ If you're on this repository, then you're probably on the wrong one. The reposit
 
 https://github.com/Unqualified-CSGO/CSGO-Stratbook
 
-# More Info
+# Website
 
 https://unqualified-csgo.com/
+
+# Website Source Code
+
+https://github.com/KevinCowleys/unqualified-csgo-stratbook
